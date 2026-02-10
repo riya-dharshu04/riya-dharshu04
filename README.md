@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Priyadharshini V
 
-<!--
-**riya-dharshu04/riya-dharshu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Software Engineer 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend:**  
+- Node.js, NestJS  
+- REST APIs  
+
+**Databases:**  
+- MySQL, PostgreSQL  
+- TypeORM  
+
+**Cloud & DevOps:**  
+- AWS, Docker  
+- Git, Linux  
+
+**Tools:**  
+- Elasticsearch, Kibana  
+- Postman, Swagger  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **priyadharshinimohan04@gmail.com**
+- 💼 LinkedIn: *https://www.linkedin.com/in/priyadharshini21032004/*
+
+---
+
+⭐ *Check out my repositories and feel free to connect!*
