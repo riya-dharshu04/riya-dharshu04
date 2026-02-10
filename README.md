@@ -2,31 +2,11 @@
 
 ## 👩‍💻 Software Engineer 
 
-
 ## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,mysql,postgresql,aws,docker,git,linux,elasticsearch,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,mysql,postgresql,aws,docker,git,linux,elasticsearch,postman" />
 </p>
-
-**Backend:**  
-- Node.js, NestJS  
-- REST APIs  
-
-**Databases:**  
-- MySQL, PostgreSQL  
-- TypeORM  
-
-**Cloud & DevOps:**  
-- AWS, Docker  
-- Git, Linux  
-
-**Tools:**  
-- Elasticsearch, Kibana  
-- Postman, Swagger  
-
----
 
 ## 📫 Connect With Me
 - 📧 Email: **priyadharshinimohan04@gmail.com**
