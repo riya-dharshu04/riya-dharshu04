@@ -5,6 +5,11 @@
 
 ## 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,mysql,postgresql,aws,docker,git,linux,elasticsearch,postman" />
+</p>
+
 **Backend:**  
 - Node.js, NestJS  
 - REST APIs  
