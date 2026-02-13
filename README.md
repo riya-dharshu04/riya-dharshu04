@@ -10,10 +10,6 @@
   <i>Focused on designing scalable backend systems and robust APIs.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riya-dharshu04&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
