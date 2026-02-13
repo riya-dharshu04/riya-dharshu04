@@ -86,15 +86,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya-dharshu04&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=riya-dharshu04&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=riya-dharshu04&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=riya-dharshu04&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-dharshu04&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riya-dharshu04&layout=compact&theme=tokyonight" />
 </p>
 ---
 
