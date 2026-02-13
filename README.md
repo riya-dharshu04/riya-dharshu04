@@ -84,16 +84,18 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riya-dharshu04&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-dharshu04&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=riya-dharshu04&theme=tokyonight" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-dharshu04&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ⭐ **Check out my repositories and feel free to connect!**
